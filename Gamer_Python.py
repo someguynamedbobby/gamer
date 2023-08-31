@@ -1,5 +1,4 @@
-def test_password(x):
-        print(x)
+
 
 #This is how we learned to concatenate strings in the ITF+ class.
 a = "String 1"
@@ -19,5 +18,3 @@ job_list = {'bob': 'gmaer', 'bobby': 'loser', 'AHHHHHHH': 'dead'}
 for name, job in job_list.items():
     print(f"{name} is a {job}")
 
-Password = 'GOOBERGOBERY'
-test_password(Password)
